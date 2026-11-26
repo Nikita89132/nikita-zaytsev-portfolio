@@ -1,0 +1,28 @@
+ПУБЛИКАЦИЯ ПОРТФОЛИО НА GITHUB PAGES
+
+1. Откройте https://github.com/new и создайте публичный репозиторий с именем:
+   portfolio
+   README, .gitignore и лицензию при создании добавлять не нужно.
+
+2. Распакуйте архив. Откройте папку Nikita_Zaytsev_Portfolio_Responsive.
+   ВАЖНО: загрузите в корень репозитория СОДЕРЖИМОЕ этой папки, а не саму
+   папку целиком. В корне должны сразу лежать index.html, styles.css,
+   script.js, about.html, contacts.html, страницы кейсов, папка assets
+   и файл .nojekyll.
+
+3. На GitHub откройте репозиторий -> Settings -> Pages.
+   В разделе Build and deployment выберите:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /(root)
+   Нажмите Save.
+
+4. Подождите завершения публикации. Ссылка будет:
+   https://nikita89132.github.io/portfolio/
+
+5. Проверьте ссылку в приватном окне браузера и на телефоне.
+
+Если репозиторий называется иначе, адрес сайта будет:
+https://nikita89132.github.io/ИМЯ-РЕПОЗИТОРИЯ/
+
+Не переименовывайте файлы и не перемещайте папку assets.
